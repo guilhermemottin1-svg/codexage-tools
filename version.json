@@ -1,5 +1,5 @@
 {
-  "versao": "2.0.4",
+  "versao": "2.0.5",
   "url": "https://github.com/guilhermemottin1-svg/codexage-tools/releases/latest/download/CodexAgeTools-Setup.exe",
-  "novidades": "Itens de boss: Anel do Valento, Colar do Kelvezu, Anel do Shy e Colar do Tulla na bandeira de Boss. Novo cursor UAE. Mod Jogo em Ingles removido (causava disconnects)."
+  "novidades": "Correcao: removida a bandeira do Arco de Ossos (aparecia na mao de quem equipava o arco)."
 }
