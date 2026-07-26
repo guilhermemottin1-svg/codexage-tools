@@ -1,5 +1,5 @@
 {
-  "versao": "2.0.5",
+  "versao": "2.0.6",
   "url": "https://github.com/guilhermemottin1-svg/codexage-tools/releases/latest/download/CodexAgeTools-Setup.exe",
-  "novidades": "Correcao: removida a bandeira do Arco de Ossos (aparecia na mao de quem equipava o arco)."
+  "novidades": "Bandeira do Arco de Ossos (quest) de volta, com aviso: por limitacao do jogo ela tambem aparece no arco equipado."
 }
