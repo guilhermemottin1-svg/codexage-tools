@@ -1,5 +1,5 @@
 {
-  "versao": "2.0.7",
+  "versao": "2.0.8",
   "url": "https://github.com/guilhermemottin1-svg/codexage-tools/releases/latest/download/CodexAgeTools-Setup.exe",
-  "novidades": "Observacao sobre bandeiras em armas na categoria de bandeiras (so o Arco de Ossos tem, e aparece equipado)."
+  "novidades": "Correcao: o app reabre sozinho de forma garantida apos a atualizacao automatica."
 }
